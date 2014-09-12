@@ -1,3 +1,16 @@
+
+
+4 - Waves
+
+4.1 - Wave Properties
+
+  We can classify waves as:
+    Transverse waves: medium moves perpendicular to wave velocity (water, light, et cetera).
+    Longitudinal waves: medium moves parallel to wave velocity (sound).
+  Wavelength(λ): Distance between adjacent crests.
+  Period(T): Time fot the oscillation.
+  Frequencty(f): Number of cycles per second in Hertz.
+
 4.2 - Electromagnetic Waves
 
   Micheal Faraday and James Clerk Maxwell ashowed that oscillating charges produced electromagnetic waves.
