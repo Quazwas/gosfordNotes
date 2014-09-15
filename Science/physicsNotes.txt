@@ -1,3 +1,112 @@
+1 - Measurement
+
+1.1 - System Internationale Units (SI Units)
+
+  Science uses the System Internationale (SI) system of units. The SI system is based on the fundamental units of:
+    - Length : metre;
+    - Mass   : kilogram;
+    - Time   : second;
+  More complex, derived units can be made from these fundamental units, for example:
+    - Velocity     : ms^-1 (m/s);
+    - Acceleration : ms^-2 (m/s^2);
+    - Force        : kgms^-2 (kg*m/s^2);
+  The SI system also uses the prefixes:
+    - G : x10^9;
+    - M : x10^6;
+    - k : x10^3;
+    - m : x10^-3;
+    - µ : x10^-6;
+    - n : x10^-9;
+    
+1.2 - Vectors and Scalars
+
+    All measured quanities are either vectors or scalars. Scalars have magnitude (size) only, ut vectors have magnitude
+  and direction in space. Scalars add and subtract like real numbers but direction must be take into account when
+  adding or subtracting vectors. We can do this in one dimension by calling the vectors in one direction positive and
+  vectors in the other direction negative.
+  Examples of scalar quantities include:
+    - Mass;
+    - Temperature;
+    - Energy;
+    - Distance;
+  Examples of vector quantities include:
+    - Force;
+    - Displacement;
+    - Velocity;
+    - Acceleration;
+    
+1.3 - Change
+
+  We can find the change in a vectort or scalar quantity using the formula:
+    - Change (Δ) = final amount - initial amount;
+
+
+2 - Motion
+
+2.1 - Motion Quantities
+
+  Quantity         |  Symbol  |  Vector/Scalar  |     Units     |  Formula
+                   |          |                 |               |
+  Distance         |          |     Scalar      | m             |
+  Speed            |          |     Scalar      | ms^-1 (m/s)   |
+  Displacement     |     s    |     Vector      | m             |
+  Velocity         |     v    |     Vector      | ms^-1 (m/s)   | v = Δs/Δt
+  Acceleration     |     a    |     Vector      | ms^-2 (m/s^2) | a = Δv/t
+  Initial Velocity |     u    |     Vector      | ms^-1 (m/s)   |
+  Final Velocity   |     v    |     Vector      | ms^-1 (m/s)   | v = (v+u)/s
+  
+2.2 - Graphing Motion
+
+    We can analyse motion by plotting displacement and velocity against time.
+  For these graphs:
+    - The gradient of a displacement against time graph is the velocity;
+    - The gradient of a velocity against time graph is the acceleration;
+    - The area under the velocity against time graph is the displacement;
+    
+2.3 - Equations of motion
+  
+  Galileo showed straight line motion with constanct velocity could be predicted using the equations:
+    - s = (at^2)/2 + ut;
+    - v = at + u;
+    - v^2 = 2as + u^2 or v = sqrt(2as + u^2);
+    
+[MISSING STUFF HERE]    
+
+2.4? - Newtons Laws of Motion (Inertia)
+
+  - An obect at rest will stay at rest, and an object in motion will stay in motion at constanct velocity,
+  unless acted upon by an unbalanced force;
+  - A force is an action exerted on a body in order to change it's state either of rest or of uniform motion
+  in a straight line.
+  - Inertia is the tendency of an object to resist changes in it's velocity;
+  - The more mass an object has, the more inertia it has.
+
+
+3 - Nuclear Physics
+
+3.1 - The Atomic Nucleus
+
+    Almost all the mass of an atom is contained in a tiny, positively charged nucleus, hence almost all of
+  the atom is empty space.
+    Atoms are made of these subatomic particles:
+      + Protons   1.67*10^-27 kg  +1.6*10^-19 Coulombs;
+      = Neutrons  1.67*10^-27 kg            0 Coulombs;
+      - Electrons  9.1*10^-31 kg  -1.6*10^-19 Coulombs;
+  Definitions:
+    - Element: an atom with a specific number of protons in the nucleus;
+    - Isotope: an element with a different number of nuetrons in the nucleus;
+    - Radio-nuclide: an unstable (radioactive) nuclide (nucleus);
+    - Nucleon: a proton or a neutron;
+    - Atomic Number (z): number of protons in the nucleus;
+    - Atomis Mass Number: number of nucleons in the nucleus;
+  We represent nuclides as follows:
+      A     e.g  238    
+        X           U  represents a uranium nucleus with 146 nuetrons and 92 protons.
+      Z           92
+
+3.2 - Radioactivity
+
+    If a nucleus is too big or contains the 'wrong'nuetron to proton ratio, it will be unstable.
 
 
 4 - Waves
@@ -13,7 +122,7 @@
 
 4.2 - Electromagnetic Waves
 
-  Micheal Faraday and James Clerk Maxwell ashowed that oscillating charges produced electromagnetic waves.
-The frequency of the wave was equal to the frequency of the oscillation that produced it.
-  Electromagnetic waves consist of mutually perpendicular charging electric and magnetic fields and the
-range of frequencies over which they exist is called the electromagnetic spectrum.
+    Micheal Faraday and James Clerk Maxwell showed that oscillating charges produced electromagnetic waves.
+  The frequency of the wave was equal to the frequency of the oscillation that produced it.
+    Electromagnetic waves consist of mutually perpendicular charging electric and magnetic fields and the
+  range of frequencies over which they exist is called the electromagnetic spectrum.
