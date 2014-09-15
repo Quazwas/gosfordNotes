@@ -1,4 +1,2 @@
 gosfordNotes
 ============
-
-yay
