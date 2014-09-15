@@ -106,8 +106,31 @@
 
 3.2 - Radioactivity
 
-    If a nucleus is too big or contains the 'wrong'nuetron to proton ratio, it will be unstable.
+    If a nucleus is too big or contains the 'wrong'nuetron to proton ratio, it will be unstable and emit radioactive
+  particles until it is transmuted into a stable nucleus. We call such nuclei radioisotopes.
+    The three types of radioactive particles most commonly emmited are:
+      - Alpha (α) is a helium nucleus (He^+2). They are highly ionising and consequently not very penetrating. They are
+          stopped by just a few centimetres of air.
+      - Beta (β) are high energy electrons emmited from particles with too many nuetrons (nuetrons change into a protons
+          and emit an electron). Beta particles will pass through about 1 metre of air and are less ionising that alpha
+          particles.
+      - Gamma (γ) particles are photons of high frequency electromagnetic radiation. They are very penetraring and will
+          pass though several centimeters of lead. Gamma are very poor ionisers.
+    The rate at which radiation is emmitted is measured using half-life. The half-life is the time for half the atoms
+  in a sample to undergo radioactive decay.
 
+3.3 - Nuclear Energy
+
+  In some reactions, mass is lost and energy released in accordance with Einstein's famous equation:
+    E = mc^2 where:
+      - E is energy in joules;
+      - m is mass in kilograms;
+      - c is 3*10^8 ms^-1, or the speed of light;
+  Examples of nuclear reactions that release energy include:
+    - Radioactivity: alpha, beta and gamma decay;
+    - Nuclear fusion (joining): found in stars;
+    - Nuclear fission (splitting): found at nuclear power stations;
+      
 
 4 - Waves
 
