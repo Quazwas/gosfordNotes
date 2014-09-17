@@ -149,3 +149,17 @@
   The frequency of the wave was equal to the frequency of the oscillation that produced it.
     Electromagnetic waves consist of mutually perpendicular charging electric and magnetic fields and the
   range of frequencies over which they exist is called the electromagnetic spectrum.
+
+
+5 - Cosmology
+
+5.1 - Astrological Units
+
+  - Astronomical unit (AU): the distance between the Earth and the Sun;
+  - Parsec (pc): the distance that subtends an angle of 1 second of arc when observed at one
+      Earth radius. Approximately 32.61 lightyears;
+  - Magnitude: the scale used by astronomers to measure brightness. Small numbers refer to bright
+      stars and large numbers refer to dull stars. Apparent magnitufe is how bright a star appears from
+      Earth and absolute magnitude is how bright a star would appear if it were located 10 pc from Earth.
+  - Spectral class: used to measure temperature using colour. Uses letters O.B.A.F.G.K.M, with a range of
+      90 between each letter. O is hot and blue, whilst M is cool and red. e.g. the Sun is approximately G2.
