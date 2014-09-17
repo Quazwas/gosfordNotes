@@ -157,7 +157,7 @@
 
   - Astronomical unit (AU): the distance between the Earth and the Sun;
   - Parsec (pc): the distance that subtends an angle of 1 second of arc when observed at one
-      Earth radius. Approximately 32.61 lightyears;
+      Earth radius. Approximately 3.261 lightyears;
   - Magnitude: the scale used by astronomers to measure brightness. Small numbers refer to bright
       stars and large numbers refer to dull stars. Apparent magnitufe is how bright a star appears from
       Earth and absolute magnitude is how bright a star would appear if it were located 10 pc from Earth.
