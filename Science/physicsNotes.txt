@@ -155,7 +155,7 @@
     E = mc^2 where:
       - E is energy in joules;
       - m is mass in kilograms;
-      - c is 3*10^8 ms^-1, or the speed of light;
+      - c is 3e8 ms^-1, or the speed of light;
   Examples of nuclear reactions that release energy include:
     - Radioactivity: alpha, beta and gamma decay;
     - Nuclear fusion (joining): found in stars;
